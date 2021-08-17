@@ -7,10 +7,12 @@ The purpose of this analysis is to understand which starting months and which ra
 
 ### Analysis of Outcomes Based on Launch Date
 This chart shows how many successful, canceled, and failed theater campaigns that occured each month ranging from year 2014 to 2016.
+
 ![Theater_Outcomes_vs_Launch](https://user-images.githubusercontent.com/88408350/129803467-922ee355-5c67-4e89-ab79-9adc647ab949.PNG)
 
 ### Analysis of Outcomes Based on Goals
 This chart shows the percentage of successful, canceled, and failed plays that occured in between a range of goals.
+
 ![Outcomes_vs_Goals](https://user-images.githubusercontent.com/88408350/129802943-e7085a25-98de-45dd-8376-95aa2d0e4fe2.PNG)
 
 ### Challenges and Difficulties Encountered

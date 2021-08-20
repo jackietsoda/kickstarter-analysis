@@ -1,6 +1,6 @@
 # An Analysis of Kickstarter Campaigns
 ## Overview of Project
-Louise’s play *Fever* was $400 short from its fundraising goal in only about a month's span. Now, she wants to understand how other plays fared in relation to their launch dates and their funding goals. I created multiple charts to visually see campaign outcomes based on their launch dates and their funding goals
+Louise’s play *Fever* was $400 short from its fundraising goal in only about a month's span. Louise wants to understand if other plays were successful based on their launch dates and their funding goals. I created multiple charts to visually see the different campaign outcomes to make those comparisons. 
 ### Purpose 
 The purpose of this analysis is to understand which starting months and which range of goals resulted in the most number of successful, failed, and canceled outcomes.
 ## Analysis and Challenges
